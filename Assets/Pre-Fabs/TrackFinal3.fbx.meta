@@ -1,0 +1,250 @@
+fileFormatVersion: 2
+guid: 903b3bc9d1f338045a5069735f9f3ece
+timeCreated: 1516181367
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: 1
+    100002: A
+    100004: Capsule
+    100006: Capsule_1
+    100008: Cube
+    100010: Cube_1
+    100012: Cube_2
+    100014: Fardo
+    100016: group_0
+    100018: ID19
+    100020: ID32
+    100022: ID4
+    100024: ID40
+    100026: ID46
+    100028: ID52
+    100030: ID58
+    100032: ID64
+    100034: MoText
+    100036: R
+    100038: S
+    100040: START
+    100042: Start
+    100044: T
+    100046: T_2
+    100048: Text
+    100050: //RootNode
+    400000: 1
+    400002: A
+    400004: Capsule
+    400006: Capsule_1
+    400008: Cube
+    400010: Cube_1
+    400012: Cube_2
+    400014: Fardo
+    400016: group_0
+    400018: ID19
+    400020: ID32
+    400022: ID4
+    400024: ID40
+    400026: ID46
+    400028: ID52
+    400030: ID58
+    400032: ID64
+    400034: MoText
+    400036: R
+    400038: S
+    400040: START
+    400042: Start
+    400044: T
+    400046: T_2
+    400048: Text
+    400050: //RootNode
+    2300000: A
+    2300002: Capsule
+    2300004: Capsule_1
+    2300006: Cube
+    2300008: Cube_1
+    2300010: Cube_2
+    2300012: ID19
+    2300014: ID32
+    2300016: ID4
+    2300018: ID40
+    2300020: ID46
+    2300022: ID52
+    2300024: ID58
+    2300026: ID64
+    2300028: R
+    2300030: S
+    2300032: T
+    2300034: T_2
+    3300000: A
+    3300002: Capsule
+    3300004: Capsule_1
+    3300006: Cube
+    3300008: Cube_1
+    3300010: Cube_2
+    3300012: ID19
+    3300014: ID32
+    3300016: ID4
+    3300018: ID40
+    3300020: ID46
+    3300022: ID52
+    3300024: ID58
+    3300026: ID64
+    3300028: R
+    3300030: S
+    3300032: T
+    3300034: T_2
+    4300000: Cube_1
+    4300002: Cube
+    4300004: S
+    4300006: T
+    4300008: A
+    4300010: R
+    4300012: T_2
+    4300014: Cube_2
+    4300016: Capsule_1
+    4300018: Capsule
+    4300020: ID64
+    4300022: ID58
+    4300024: ID52
+    4300026: ID46
+    4300028: ID40
+    4300030: ID32
+    4300032: ID19
+    4300034: ID4
+    6400000: A
+    6400002: Capsule
+    6400004: Capsule_1
+    6400006: Cube
+    6400008: Cube_1
+    6400010: Cube_2
+    6400012: ID19
+    6400014: ID32
+    6400016: ID4
+    6400018: ID40
+    6400020: ID46
+    6400022: ID52
+    6400024: ID58
+    6400026: ID64
+    6400028: R
+    6400030: S
+    6400032: T
+    6400034: T_2
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat
+    second: {fileID: 2100000, guid: fba06d07a7f6ddd4583b68dcf04d40df, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat.4
+    second: {fileID: 2100000, guid: 7f227cdfd5b21d54591f7f0f4dbd7c23, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat.5
+    second: {fileID: 2100000, guid: 77a1d3f72910fb5488dbc7c443b28950, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat.6
+    second: {fileID: 2100000, guid: ddc33edd11f21f045af66a04fc99b70f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat.6.1
+    second: {fileID: 2100000, guid: ddc33edd11f21f045af66a04fc99b70f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: 57f9c55a79b36f640afee75a6fb81afb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wood_Bamboo_Dark
+    second: {fileID: 2100000, guid: 55bf2fd9666e0cb47ba43b11ccb775a3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hay-bales-01
+    second: {fileID: 2100000, guid: 27dade8423d8b5e44a5d5e43ea45a754, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
